@@ -6,7 +6,7 @@ flat="https://meet.google.com/nwz-drot-dig"
 ppl="https://meet.google.com/cyr-nnmw-zre"
 dppm="https://meet.google.com/yzj-nqxa-tuw"
 sl="https://meet.google.com/iym-irpf-ckn"
-se="http://meet.google.com/mxs-bgbg-arv"
+se="http://meet.google.com/sdz-mbup-wma"
 es="https://meet.google.com/kah-ndgu-jfu"
 echo "kun class ho :"
 read class

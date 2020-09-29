@@ -1,7 +1,7 @@
 #!/bin/bash
 
 browser="iridium-browser"
-cn="https://meet.google.com/ecr-dosb-tnd"
+cn="https://meet.google.com/iin-szgx-qij"
 flat="https://meet.google.com/nwz-drot-dig"
 ppl="https://meet.google.com/cyr-nnmw-zre"
 dppm="https://meet.google.com/yzj-nqxa-tuw"
